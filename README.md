@@ -5,7 +5,7 @@ The Phonepe pulse Github repository contains a large amount of data related to v
 
   2. Data Transformation: Using Python and Pandas to clean and structure the data.
 
-  3. Database Insertion: Storing transformed data in a POSTGRESQL database.
+  3. Database Insertion: Storing transformed data in a MYSQL database.
 
   4. Dashboard Creation: Using Streamlit and Plotly to build an interactive dashboard.
 
